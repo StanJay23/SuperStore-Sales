@@ -30,3 +30,9 @@ We were provided with datasets that contained all the Sales information namely :
 + Quantity
 + Discount
 + Profit
+
+# Folders
+
++ Data: Contains Original Data Folder which contains the original dataset for the analysis.
++ Scripts: Contains all the Python coding involved for the entire analysis process.
++ Analysis: Contains the Visualizations used for developing insights and presenting on the final report.
