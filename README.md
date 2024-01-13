@@ -36,3 +36,10 @@ We were provided with datasets that contained all the Sales information namely :
 + Data: Contains Original Data Folder which contains the original dataset for the analysis.
 + Scripts: Contains all the Python coding involved for the entire analysis process.
 + Analysis: Contains the Visualizations used for developing insights and presenting on the final report.
+
+# Visualizations
+The visualizations were also made in tableau and here is the link to the storyboard
+
+https://public.tableau.com/app/profile/stanley.james/viz/Task6_7_17050768089240/Story2?publish=yes
+
+
